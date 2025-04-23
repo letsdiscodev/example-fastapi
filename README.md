@@ -1,1 +1,1 @@
-# example-fastapi
+# Example FastAPI Disco App
